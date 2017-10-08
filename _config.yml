@@ -22,7 +22,7 @@ customize:
         location: New York | Puerto Rico
         follow: /
     highlight: monokai
-    sidebar: right # sidebar position, options: left, right or leave it empty
+    sidebar: left # sidebar position, options: left, right or leave it empty
     thumbnail: true # enable posts thumbnail, options: true, false
     favicon: # path to favicon
     social_links:
